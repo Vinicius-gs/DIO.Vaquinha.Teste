@@ -2,13 +2,12 @@
 # dotnet-vaquinha-tests
 Projeto Base para Testes - .Net Core  
 
-Este é um projeto da Digital Innovation One em parceria com a MRV que tem como objetivo aprender a testar um projeto de crowdfunding (vaquinha online) desenvolvida em .Net Core com a arquitetura MVC.
-O código original é do professor Eliézer Zarpelão GitHub: https://github.com/elizarp/dotnet-vaquinha-tests
-Caso de incompatibilidade de versão pode se guiar através deste link : https://aka.ms/dotnet-core-applaunch?framework=Microsoft.AspNetCore.App&framework_version=3.1.0&arch=x64&rid=ubuntu.20.04-x64
+(Este é um projeto da Digital Innovation One em parceria com a MRV que tem como objetivo aprender a testar um projeto de crowdfunding (vaquinha online) desenvolvida em .Net Core com a arquitetura MVC.)
 
-## Digital Innovation One
+(O código original é do professor Eliézer Zarpelão GitHub: https://github.com/elizarp/dotnet-vaquinha-tests)
 
-[Clique aqui para se inscrever na Digital Innovation One](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6)  
+(Caso de incompatibilidade de versão pode se guiar através deste link : https://aka.ms/dotnet-core-applaunch?framework=Microsoft.AspNetCore.App&framework_version=3.1.0&arch=x64&rid=ubuntu.20.04-x64)
+
 
 ## Eliézer Zarpelão
 [GitHub Timeline](https://elizarp.github.io/timeline/)  
